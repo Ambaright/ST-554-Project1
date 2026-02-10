@@ -9,7 +9,7 @@ By the end of the day on Tuesday, 2/10, each member of the group should agree to
 - Task 2: Amanda Baright
 - Task 3: Michelle Silveira
 
-Other group notes for this item: Initial proposal for task assignments
+Other group notes for this item:
 
 
 
