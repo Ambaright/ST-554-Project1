@@ -5,11 +5,11 @@ This is a repo for students to fork and use as a template for their group's repo
 
 By the end of the day on Tuesday, 2/10, each member of the group should agree to do one of the tasks of the project. Place the name of each group member next to the task
 
-- Task 1: 
-- Task 2: 
-- Task 3: 
+- Task 1: Siona Benjamin
+- Task 2: Amanda Baright
+- Task 3: Michelle Silveira
 
-Other group notes for this item:
+Other group notes for this item: Initial proposal for task assignments
 
 
 
