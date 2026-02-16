@@ -1,5 +1,5 @@
-# ST-554-Project1-Template
-This is a repo for students to fork and use as a template for their group's repo.
+# ST-554-Project1
+This is our Project 1 repo.
 
 ## Task Leads (due Tuesday, 2/10)
 
