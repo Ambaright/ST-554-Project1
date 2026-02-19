@@ -24,7 +24,7 @@ The README.md files in each task folder exist for you to provide feedback. You a
 
 ## (Initial) Feedback (due Friday, 2/20)
 
-By the end of the day on Thursday, 2/20, each member should provide feedback to the other two members in their corresponding task folder README.md document.
+By the end of the day on Friday, 2/20, each member should provide feedback to the other two members in their corresponding task folder README.md document.
 
 ## (Soft) Project Submission Date or Additional Feedback (due Monday, 2/23)
 
