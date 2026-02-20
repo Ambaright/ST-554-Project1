@@ -11,7 +11,7 @@ Please replace “Feedback giver #x” with a group member’s name below and ad
   + My biggest piece of feedback is incorporating a narrative into your text blocks. Right now, it seems like a brain dump of what is being done; however, the project heavily emphasizes the importance of this being a narrative report. I would go into more detail, explaining in a paragraph format what Task 3 is hoping to achieve and why cross-validation is important, and how it works. Then be sure to have your text blocks be in a mostly paragraph form as you describe what is being done in your code.
 
 
-- Feedback giver #2
-  +Explicitly write our SLR (simple linear regression) and MLR (multiple linear regression) and explain what each of these methods do in the introduction or in the text areas where you use them
+- Siona Benjamin
+  + Explicitly write our SLR (simple linear regression) and MLR (multiple linear regression) and explain what each of these methods do in the introduction or in the text areas where you use them
   + Tailor the introduction to include more explanation about your specific task
 
