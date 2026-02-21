@@ -12,5 +12,5 @@ Please replace “Feedback giver #x” with a group member’s name below and ad
   + Overall great job! Very thorough expalanation of the data, creation of new variables and visual analysis plans sound great!
 
 
-- Feedback giver #2
-  + item
+- Michelle Silveira
+  + I dont have any additional comment the foundation of this notebook is excellent — the data engineering and summary statistics work is thoughtful and well-narrated.
