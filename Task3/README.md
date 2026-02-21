@@ -14,4 +14,5 @@ Please replace “Feedback giver #x” with a group member’s name below and ad
 - Siona Benjamin
   + Explicitly write our SLR (simple linear regression) and MLR (multiple linear regression) and explain what each of these methods do in the introduction or in the text areas where you use them
   + Tailor the introduction to include more explanation about your specific task
+  + Feedback after edits were made: great updates to the introduction! I think the rest of the code is clearly labeled and easy to go through as well. The graphs at the end are also a great visual to see how the error progresses. 
 
