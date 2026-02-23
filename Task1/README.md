@@ -13,5 +13,5 @@ Please replace “Feedback giver #x” with a group member’s name below and ad
   + Overall, I liked how much narrative you added to the report. These narratives help add much-needed context to what the gradient descent methods are, how they are being used, and what to expect with the output.
 
 
-- Michelle Silveiras
+- Michelle Silveira
   + Only on additional feedback is on the rmse_yx function you compute b0 - b1x since is a linear model it should be b0 + b1x
