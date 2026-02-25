@@ -15,3 +15,10 @@ Please replace “Feedback giver #x” with a group member’s name below and ad
 
 - Michelle Silveira
   + Only on additional feedback is on the rmse_yx function you compute b0 - b1x since is a linear model it should be b0 + b1x
+  + Feedback after the adjustments:
+  + Clean separation between: loss function, objective function and optmization loop
+  + very clear your Convergence criteria
+  + b0+b1x issue fixed
+  + Max iteration safeguard included
+  + Euclidean norm used for stopping
+
