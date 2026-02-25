@@ -14,3 +14,14 @@ Please replace “Feedback giver #x” with a group member’s name below and ad
 
 - Michelle Silveira
   + I dont have any additional comment the foundation of this notebook is excellent — the data engineering and summary statistics work is thoughtful and well-narrated.
+  + post adjustment feedback:
+  + Very clear structure and flow: headings and progression feel like a real (advaced research) EDA report.
+  + Good feature engineering for EDA: creating interpretable categories (high/low, season, time-of-day) helps tell a story about benzene behavior.
+  + Good coverage of “time effects” beyond just one line plot (time-of-day and seasonal boxplots are especially useful).
+  + Sections are written like a guided thought, good alignment with “walk the reader through your thinking
+
+
+
+
+
+ 
